@@ -20,6 +20,12 @@ Se você deseja contribuir para o desenvolvimento deste jogo, siga estas etapas:
 # Sobre
 Este jogo foi desenvolvido como parte de um projeto de aprendizado em Construct 3. A ideia é proporcionar uma experiência divertida e desafiadora para os jogadores que gostam de jogos de nave espacial, além de demonstrar a integração com o Firebase para armazenamento de pontuações.
 
+# Link Jogo Hospedado
+# https://space-aircraft.netlify.app/
+
+# Link Construct 3
+# https://drive.google.com/file/d/1Z1_no8cdKe9Dn_kEdcZyi2Gv1wXfEXNP/view?usp=sharing
+
 # Imagem
 ![1](https://github.com/GustDOC/Space-Aircraft/assets/89112032/49109970-1599-457b-a611-f84dc6a1aba5)
 
